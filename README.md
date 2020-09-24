@@ -1,1 +1,1 @@
-# MYProject
+# WaistLine
